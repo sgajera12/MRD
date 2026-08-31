@@ -5,7 +5,6 @@ MRD: High-fidelity synthetic LiDAR–camera data for off-road semantic segmentat
   AVMI DATASET — README SCAFFOLD
   How to use this file:
    - Fill every  <!-- TODO ... -->  comment and every  TBD  placeholder.
-   - Delete a section only if it truly does not apply.
    - Section order is modeled on RELLIS-3D / GOOSE, adapted for a SYNTHETIC set.
    - On GitHub, heading levels (#, ##, ###) control the "fonts"/sizes.
   ============================================================================
