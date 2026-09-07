@@ -227,8 +227,7 @@ Project LiDAR into the segmented image, then transfer labels back to 3D:
 ```bibtex
 @inproceedings{avmi_simulator,
   title     = {Real-Time Mixed-Reality-based Simulator for Autonomous Off-Road Vehicle Research},
-  author    = {Zhang, Siyuan and Chauhan, Simran and Shestopalov, Matvei and 
-               Gajera, Sahil },
+  author    = {Zhang, Siyuan and Chauhan, Simran and Shestopalov, Matvei and Gajera, Sahil },
   booktitle = {TBD},
   year      = {2026}
 }
